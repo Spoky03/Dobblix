@@ -1,2 +1,12 @@
-# Dobblix
-simple Windows Dobble game clone made in C++, SFML 
+
+## Authors
+
+- [@Spoky03](https://www.github.com/Spoky03)
+
+
+## Deployment
+
+To deploy this project run 'run.cmd' or 'runStatic.cmd'
+
+
+
